@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom";
 
 import {
-  ApolloProvider,
+  ApolloProvider, 
   ApolloClient,
   createHttpLink,
   InMemoryCache,
